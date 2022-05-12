@@ -1,0 +1,14 @@
+package br.com.senai.gedsenai.view;
+
+public class TelaDeLogin {
+
+
+	private String login;
+	private String senha;
+	
+	public void logar(){
+		
+	}
+	
+	
+}

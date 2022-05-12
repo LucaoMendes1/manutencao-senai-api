@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\Senai\Desktop\Eclipse Lucas\.metadata\.plugins\org.eclipse.jdt.core
+1324374822.index
+266106276.index
+343562984.index
+2314513506.index
+3639039889.index
+1865797976.index
+2620115458.index

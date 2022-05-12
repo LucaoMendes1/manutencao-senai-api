@@ -1,0 +1,20 @@
+package br.com.senai.gedsenai.view;
+
+import javax.swing.JOptionPane;
+
+public class TelaDeLogin {
+
+	private String login;
+	private String senha;
+
+	public void logar() {
+		
+		
+			this.login = JOptionPane.showInputDialog("Qual é o seu login?");
+			this.senha = JOptionPane.showInputDialog("Qual a sua senha?");
+		
+		
+		
+	}
+
+}
